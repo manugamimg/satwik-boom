@@ -14,3 +14,5 @@ title = "Nighthost Status"
 # you open or update an incident.
 # Replace these examples with your own system names.
 systems = ["DashBoard", "Panel", "Website", "Cloudflare"]
+affectedsystems = ["Website"]
+resolved = false
