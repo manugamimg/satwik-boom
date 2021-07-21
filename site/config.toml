@@ -1,12 +1,12 @@
-baseurl = "/"
+baseurl = "/status"
 languageCode = "en-us"
-title = "StatusKit"
+title = "Nighthost Status"
 
 [permalinks]
   incidents = "/incidents/:year/:month/:day/:slug/"
 
 [params]
-  defaultLogo = "https://www.netlify.com/img/press/logos/logomark.svg"
+  defaultLogo = "https://cdn.discordapp.com/avatars/783624366658158592/abb47ce7eb58378f06965eb861e4ed9a.png?size=2048"
   faviconsPath = "/images/favicon/"
 
 # List of systems monitored in this status page.
